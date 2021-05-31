@@ -1,0 +1,2 @@
+install typescript model
+pull mongodb image 

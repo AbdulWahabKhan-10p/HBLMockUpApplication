@@ -1,0 +1,58 @@
+{
+    "batchId": "DCR202151|28007|HAB000004",
+    "valueDate": "2021-02-25T00:00:00.000Z",
+    "nbOfTxs": "2",
+    "amount": {
+        "currency": "PKR",
+        "value": "2.93"
+    },
+    "value": "In Process",
+    "instructions": [
+        {
+            "amount": {
+                "currency": "PKR",
+                "value": "1.3"
+            },
+            "purposeCode": "033",
+            "instructionId": "CDC28007|170003685",
+            "creditor": {
+                "identification": {
+                    "type": "CNIC",
+                    "value": "4210154878570"
+                },
+                "iban": "PK36SCBL0000001123456702",
+                "name": "MOBINA SAEED"
+            },
+            "cdtrBank": "SCBLPKKX",
+            "debtor": {
+                "iban": "PK86HABB0000207900584503",
+                "name": "SKY PVT LIMITED"
+            },
+            "instrForCdtrBank": "Dividend",
+            "rmtInf": "CD-DCR-D-17"
+        },
+        {
+            "amount": {
+                "currency": "PKR",
+                "value": "1.63"
+            },
+            "purposeCode": "033",
+            "instructionId": "CDC28007|170003862",
+            "creditor": {
+                "identification": {
+                    "type": "CNIC",
+                    "value": "4220189247021"
+                },
+                "iban": "PK72HABB0005997900537503",
+                "name": "ZAFAR AHMED"
+            },
+            "cdtrBank": "SCBLPKKX",
+            "debtor": {
+                "iban": "PK86HABB0000207900584503",
+                "name": "SKY PVT LIMITED"
+            },
+            "instrForCdtrBank": "Dividend",
+            "rmtInf": "CD-DCR-D-18"
+        }
+    ]
+}
